@@ -21,7 +21,7 @@
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 </div>
-#### I've used it before.
+#### I used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
